@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alifathi1x
+- 👋 Hi, I’m @alifathi
 - 👀 I’m interested in DEVELOPING
 - 🌱 I’m currently learning PYTHON FULL STACK KNOWLEDGE
 
