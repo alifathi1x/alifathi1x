@@ -9,5 +9,6 @@
 
 -Here is my python certificate License:![certificate-en](https://github.com/user-attachments/assets/82daa5f0-9411-44cd-9dc4-d380f3049b64)
 
-
+ 
+  -Data Analysis:![a](https://github.com/user-attachments/assets/977de581-c1d7-4be4-b246-f7dc341303b7)
 
