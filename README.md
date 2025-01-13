@@ -12,3 +12,6 @@
  
   -Data Analysis:![a](https://github.com/user-attachments/assets/977de581-c1d7-4be4-b246-f7dc341303b7)
 
+  -MACHINE LEARNING:![image1](https://github.com/user-attachments/assets/a58e6935-a344-4f05-9850-118bfbbc0ae1)
+
+
