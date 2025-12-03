@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alifathi
 - 👀 I’m interested in DEVELOPING
-- 🌱 I’m currently learning PYTHON FULL STACK KNOWLEDGE and also AI FULL KNOWLEDGE
+- 🌱 I’m currently working as Ai developr & Machine Learning 
 
 - ![1000_F_224869243_WZHOVD3GqYq6ZUzRkZbQNTXzg1FzHwhd](https://github.com/user-attachments/assets/bdc22aac-d5c4-4f64-8db6-c9e3e27cd1cd)
 
