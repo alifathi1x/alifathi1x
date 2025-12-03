@@ -15,4 +15,7 @@
 
   -MACHINE LEARNING:![image1](https://github.com/user-attachments/assets/a58e6935-a344-4f05-9850-118bfbbc0ae1)
 
+  -JavaScript: ![1](https://github.com/user-attachments/assets/52f55883-7e9b-43df-93a9-106b6fe2de8e)
+
+
 
